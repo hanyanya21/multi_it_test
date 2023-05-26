@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T05:34:51.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="H5IA8iDcxcu4lYlKIWcO" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:15:08.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Io-qiVoLDF6_V6sa3WBz" version="21.3.4" type="github">
   <diagram name="페이지-1" id="Txm1GUmn1d5pyy7bxbOI">
     <mxGraphModel dx="936" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L6xHLpEOwCYYPZdiAkXM-1" value="회원전체 조회" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
